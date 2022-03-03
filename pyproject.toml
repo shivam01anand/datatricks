@@ -2,17 +2,18 @@
 name = "datatricks"
 version = "0.1.0"
 description = "Common Functions for Data Science/Analysis"
+long_description ="Common Functions for Data Science/Analysis"
 authors = ["Shivam Anand <shivam01anand@gmail.com>"]
 keywords = ["data", "analytics","datascience","pandas","etl"]
 license = "MIT"
-homepage = "https://github.com/MattiooFR/package_name"
-repository = "https://github.com/MattiooFR/package_name"
+homepage = "https://github.com/shivam01anand/datatricks"
+repository = "https://github.com/shivam01anand/datatricks"
 classifiers = ["Topic :: Software Development :: Build Tools",
                "Topic :: Software Development :: Libraries :: Python Modules",
                "Framework :: Jupyter"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.5"
 pandas = "^1.4.1"
 Pillow = "^9.0.1"
 
