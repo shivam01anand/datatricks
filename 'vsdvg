@@ -1,0 +1,16 @@
+[33mcommit f407b5b87a394a0d8dedd859b3f422b91552fc70[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Shivam Anand <shivam.anand@getvymo.com>
+Date:   Thu Mar 3 15:55:19 2022 +0530
+
+    Added basic functions for v0.1.0
+
+ create mode 100644 README.rst
+ create mode 100644 datatricks/__init__.py
+ create mode 100644 datatricks/__pycache__/__init__.cpython-39.pyc
+ create mode 100644 poetry.lock
+ create mode 100644 pyproject.toml
+ create mode 100644 requirements.txt
+ create mode 100644 tests/__init__.py
+ create mode 100644 tests/__pycache__/__init__.cpython-39.pyc
+ create mode 100644 tests/__pycache__/test_datatricks.cpython-39-pytest-5.4.3.pyc
+ create mode 100644 tests/test_datatricks.py
